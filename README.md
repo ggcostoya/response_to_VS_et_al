@@ -14,8 +14,7 @@ The structure of this repository is as follows:
     - `cage_temperatures.txt` : Cage temperature data from von Schmalansee et al. 2021 *Ecology Letters*. 
     - `eggs.txt` : Egg developmental rate data from von Schmalansee et al. 2021 *Ecology Letters*. 
     - `larvae.txt` : Larvae developmental rate data from von Schmalansee et al. 2021 *Ecology Letters*. 
-    - `monthly_weather_station_data_bahamas.csv` : Weather station data from Great Exhuma, Bahamas used by Logan et al. 2021 *J. Exp. Biol* and Neel et al. 2021 *Biotropica*. 
-    - `montly_weather_station_data_panama.csv` : Weather station data from Barro Colorado Island, Panama used by Logan et al. 2021 *J. Exp. Biol* and Neel et al. 2021 *Biotropica*. 
+    - `monthly_weather_station_data_bahamas.csv` : Weather station data from Great Exhuma, Bahamas used by Neel et al. 2021 *Biotropica*. 
+    - `montly_weather_station_data_panama.csv` : Weather station data from Barro Colorado Island, Panama used by Neel et al. 2021 *Biotropica*. 
     - `sagrei_sprint_speed.csv` : Sprint speed data of Bahamian brown anoles ( *Anolis sagrei* ) used by Logan et al. 2021 *J. Exp. Biol* and Neel et al. 2021 *Biotropica*. 
-    - `weather_station_temperatures.txt` : Weather station data from Floda,  Colorado Island, Panama used by Logan et al. 2021 *J. Exp. Biol* and Neel et al. 2021 *Biotropica*.
-
+    - `weather_station_temperatures.txt` : Weather station data from Floda, Västra Götaland County, Sweden from von Schmalansee et al. 2021 *Ecology Letters*.
