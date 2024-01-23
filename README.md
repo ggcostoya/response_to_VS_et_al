@@ -11,7 +11,7 @@ The structure of this repository is as follows:
 - `plot_VS_et_al_response.R` : `R` script to replicate Figure 1. 
 - `data` : folder containing all data used to replicate Figure 1. This folder contains the following files:
     - `apletophallus_sprint_speed.csv` : Sprint print speed data of Panamanian slender anoles ( *Anolis apletophallus* ) used by Logan et al. 2021 *J. Exp. Biol* and Neel et al. 2021 *Biotropica*. 
-    - `cage_temperatures.text` : Cage temperature data from von Schmalansee et al. 2021 *Ecology Letters*. 
+    - `cage_temperatures.txt` : Cage temperature data from von Schmalansee et al. 2021 *Ecology Letters*. 
     - `eggs.txt` : Egg developmental rate data from von Schmalansee et al. 2021 *Ecology Letters*. 
     - `larvae.txt` : Larvae developmental rate data from von Schmalansee et al. 2021 *Ecology Letters*. 
     - `monthly_weather_station_data_bahamas.csv` : Weather station data from Great Exhuma, Bahamas used by Logan et al. 2021 *J. Exp. Biol* and Neel et al. 2021 *Biotropica*. 
