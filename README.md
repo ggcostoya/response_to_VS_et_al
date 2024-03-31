@@ -1,4 +1,4 @@
-## Methodological and conceptual misunderstandings lead to invalid concerns: A response to von Schmalansee et al. 
+## Response to von Schmalansee et al. 
 
 **Authors**: Guillermo Garcia-Costoya<sup>1</sup>, Claire E. Williamns<sup>1</sup>, Trevor M. Faske<sup>1</sup>, Jacob D. Moorman<sup>2</sup>, Michael L. Logan<sup>1</sup>
 
