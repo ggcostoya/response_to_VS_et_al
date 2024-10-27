@@ -4,7 +4,13 @@
 
 **Affiliations**: <sup>1</sup>University of Nevada, Reno, NV, USA. <sup>2</sup>University of California, Los Angeles, CA, USA. 
 
-This repository contains the data and code necessary to generate Figure 1 of the manuscript titled "**Response to von Schmalensee et al.**" by Garcia-Costoya et al. 2023. This manuscript was submitted to *Ecology Letters* as a reply to the technical note written by von Schmalensee et al. titled "Methodological artefacts [mispelling in the original title] cause counter-intuitive evolutionary conclusions in a simulation study". This note was in reference to Garcia-Costoya et al. 's 2023 *Ecology Letters* article titled "Evolutionary constraints medaite extinction risk under climate change". 
+Link to the article: https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.14436
+
+Link to the article to which it refers: https://onlinelibrary.wiley.com/doi/10.1111/ele.14439
+
+Link to the original article: https://onlinelibrary.wiley.com/doi/10.1111/ele.14173
+
+This repository contains the data and code necessary to generate Figure 1 and 2 of the manuscript titled "**Response to von Schmalensee et al.**" by Garcia-Costoya et al. 2023. This manuscript was submitted to *Ecology Letters* as a reply to the technical note written by von Schmalensee et al. titled "Methodological artefacts [mispelling in the original title] cause counter-intuitive evolutionary conclusions in a simulation study". This note was in reference to Garcia-Costoya et al. 's 2023 *Ecology Letters* article titled "Evolutionary constraints medaite extinction risk under climate change". 
 
 The structure of this repository is as follows: 
 
